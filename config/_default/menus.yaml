@@ -17,7 +17,7 @@ main:
     weight: 30
 
   - name: Publications 
-    url: publication
+    url: http://mlg.eng.cam.ac.uk/pub/
     weight: 40
    
   
