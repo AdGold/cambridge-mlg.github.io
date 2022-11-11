@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Cambridge Machine Learning Group # Website name
-baseURL: 'https://mlg.eng.cam.ac.uk/hugo-site/' # Website URL
+baseURL: 'https://cambridge-mlg.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
