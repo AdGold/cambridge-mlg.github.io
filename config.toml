@@ -1,4 +1,0 @@
-baseURL = "https://cambridge-mlg.github.io/"
-languageCode = "en-us"
-title = "Cambridge Machine Learning Group"
-theme = "hugo-sugoi"
