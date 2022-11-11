@@ -32,4 +32,4 @@ jobs:
       # run: ssh-keyscan -H {{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
 
     - name: Deploy
-      run: rsync -avz --delete -e 'ssh -A -J ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}' public/ ${{ secrets.SSH_USER }}@cbl-fs.eng.cam.ac.uk:/var/www/mlg/hugo-site
+      run: rsync -avz --omit-dir-times --delete -e 'ssh -A -J ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}' public/ ${{ secrets.SSH_USER }}@cbl-fs.eng.cam.ac.uk:/var/www/mlg/hugo-site/
