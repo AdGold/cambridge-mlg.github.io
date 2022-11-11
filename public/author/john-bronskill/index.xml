@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Bronskill | Cambridge Machine Learning Group</title>
+    <link>https://withbayes.github.io/cambridge-mlg/author/john-bronskill/</link>
+      <atom:link href="https://withbayes.github.io/cambridge-mlg/author/john-bronskill/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Bronskill</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://withbayes.github.io/cambridge-mlg/author/john-bronskill/avatar_hu46fa08a1b7c19b59aff134fcde938bae_23546_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>John Bronskill</title>
+      <link>https://withbayes.github.io/cambridge-mlg/author/john-bronskill/</link>
+    </image>
+    
+  </channel>
+</rss>

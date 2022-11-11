@@ -1,0 +1,18 @@
+{
+  "name": "Cambridge Machine Learning Group",
+  "short_name": "Cambridge Machine Learning Group",
+  "lang": "en-us",
+  "theme_color": "#1565c0",
+  "background_color": "#1565c0",
+  "icons": [{
+    "src": "/cambridge-mlg/media/icon_huf9728fb088a9d9e95e44d79b4a88d4c1_77060_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/cambridge-mlg/media/icon_huf9728fb088a9d9e95e44d79b4a88d4c1_77060_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

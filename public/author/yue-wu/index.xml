@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yue Wu | Cambridge Machine Learning Group</title>
+    <link>https://withbayes.github.io/cambridge-mlg/author/yue-wu/</link>
+      <atom:link href="https://withbayes.github.io/cambridge-mlg/author/yue-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yue Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://withbayes.github.io/cambridge-mlg/author/yue-wu/avatar_hu78f90294e5b28717599f1f572dc03768_5286_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yue Wu</title>
+      <link>https://withbayes.github.io/cambridge-mlg/author/yue-wu/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrian Weller | Cambridge Machine Learning Group</title>
+    <link>https://withbayes.github.io/cambridge-mlg/author/adrian-weller/</link>
+      <atom:link href="https://withbayes.github.io/cambridge-mlg/author/adrian-weller/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adrian Weller</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://withbayes.github.io/cambridge-mlg/author/adrian-weller/avatar_hu936b098957ac1f23bf027c9137abf20b_821493_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Adrian Weller</title>
+      <link>https://withbayes.github.io/cambridge-mlg/author/adrian-weller/</link>
+    </image>
+    
+  </channel>
+</rss>
